@@ -60,7 +60,7 @@ More tooling may be added down the line, but for now this simple setup serves me
 2. Clone the repo to some place:
 
 ```sh
-git clone git@github.com:naps62/zk $HOME/.zk
+git clone git@github.com:josh-tracey/zk.git $HOME/.zk
 ```
 
 3. Add the `bin` directory to your path
