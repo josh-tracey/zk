@@ -4,4 +4,4 @@
 
 cd $ZK_PATH
 
-$EDITOR -c ":set autochdir | :Telescope grep_string Flow Engine"
+$EDITOR -c ":set autochdir | :Telescope grep_string"
